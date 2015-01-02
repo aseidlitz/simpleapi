@@ -1,0 +1,12 @@
+{application, simpleapi,
+ [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { simpleapi_app, []}},
+  {env, []}
+ ]}.
