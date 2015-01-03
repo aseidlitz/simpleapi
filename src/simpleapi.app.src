@@ -1,6 +1,6 @@
 {application, simpleapi,
  [
-  {description, ""},
+  {description, "Simple API using Elli webserver"},
   {vsn, "1"},
   {registered, []},
   {applications, [
